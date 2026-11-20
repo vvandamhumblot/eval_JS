@@ -19,6 +19,6 @@ function click_OUI (evenement) {
 }
 
 function click_NON (evenement) {
-    evenement.NON_NON.innerHTML = "NOOOOOOOOOOOOON !!!!!"
+    evenement.NON_NON.innerHTML = "NOOOOOOOOOOOOOON !!!!!"
 }
 
